@@ -61,6 +61,3 @@ document.getElementById("categoriesbtns").addEventListener("click", (e) => {
     }
 });
 
-
-
-
